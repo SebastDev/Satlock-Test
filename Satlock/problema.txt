@@ -1,0 +1,13 @@
+Una droguería requiere llevar a cabo un control de inventarios para poder realizar pedidos. Además, por razones de mercado necesita saber cuáles son los productos más vendidos para decidir de cuales mantiene mayor cantidad en bodega y así optimizar ganancias.
+
+La droguería vende 10 productos, para cada uno de los cuales se debe manejar la siguiente información: 
+•	Su nombre.
+•	Su tipo
+•	La cantidad actual del producto en la tienda (número de unidades disponibles para la venta que hay en bodega).
+•	El número de productos por debajo del cual se debe hacer un nuevo pedido al laboratorio.
+•	El precio de venta por unidad.
+Pautas de elaboración
+El programa debe permitir las siguientes operaciones:
+•	Vender a un cliente un cierto número de unidades de un producto.
+•	Hacer un pedido de un producto.
+•	Mostrar la cantidad total de dinero obtenido por las ventas de la tienda.
